@@ -1,0 +1,164 @@
+.星黛露1 img{
+	float:left;
+	width:200px;
+	height:200px;
+	margin-bottom:60px;
+}
+
+.title{
+	float:left;
+	padding-top:80px;
+	padding-left:280px;
+}
+
+.title span{
+	font-family:YouYuan;
+	font-size:70px;
+}
+
+.星黛露2 img{
+	float:left;
+	width:200px;
+	height:200px;
+	margin-left:265px;
+}
+
+.table1{
+	background-color:#C7C7E2;
+	border-collapse: collapse; 
+	width:920px;
+	margin-left:90px;
+}
+
+.ttd{
+	color: #5A5A5A;
+	line-height: 2.0;
+    font-size: 14px;
+	height:40px;
+	width:20px;
+	font-weight:bolder;
+	border-bottom:5px dashed white; 
+}
+
+.time{
+	color: #5A5A5A;
+	line-height: 2.0;
+    font-size: 14px;
+	height:40px;
+	width:20px;
+	padding-left:20px;
+	border-bottom:5px dashed white;
+    font-weight:bolder;	
+}
+
+.香港{
+	border-bottom:5px dashed white;
+	width:280px;
+}
+
+.深圳{
+	border-bottom:5px dashed white;
+}
+
+.深圳 img{
+	width:200px;
+	height:200px;
+	border-radius:50%;
+	overflow:hidden;
+	padding-top:10px;
+	margin-left:100px
+}
+
+.杭州{
+	border-bottom:5px dashed white;
+}
+
+.杭州 img{
+	width:200px;
+	height:200px;
+	border-radius:50%;
+	overflow:hidden;
+	padding-top:10px;
+	margin-left:100px
+}
+
+.西藏{
+	border-bottom:5px dashed white;
+	width:280px;
+}
+
+.哈尔滨{
+	border-bottom:5px dashed white;
+	width:280px;
+}
+
+.上海{
+	border-bottom:5px dashed white;
+	width:280px;
+}
+
+.北京{
+	border-bottom:5px dashed white;
+	width:280px;
+}
+
+.大理{
+	border-bottom:5px dashed white;
+}
+
+.大理 img{
+	width:200px;
+	height:200px;
+	border-radius:50%;
+	overflow:hidden;
+	padding-top:10px;
+	margin-left:100px
+}
+
+.成都{
+	border-bottom:5px dashed white;
+}
+
+.成都 img{
+	width:200px;
+	height:200px;
+	border-radius:50%;
+	overflow:hidden;
+	padding-top:10px;
+	margin-left:100px
+}
+
+.重庆{
+	border-bottom:5px dashed white;
+	width:280px;
+}
+
+.td{
+	line-height: 2.0;
+    font-size:17px;
+	height:40px;
+	width:250px;
+	font-weight:bolder;
+	font-family:YouYuan;
+	color:#696969;
+	border-bottom:5px dashed white;
+	border-left:5px dashed white;
+	text-align:center;
+}
+
+.俄罗斯{
+	border-bottom:5px dashed white;
+	width:280px;
+}
+
+.泰国{
+	border-bottom:5px dashed white;
+	width:280px;
+}
+
+.table2{
+	background-color:#FFE8D7;
+	border-collapse: collapse; 
+	width:920px;
+	margin-left:90px;
+}
